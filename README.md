@@ -1,2 +1,2 @@
 # openvpn
-download for openvpn-gui
+提供OpenVPN下载
